@@ -14,5 +14,5 @@ rules/
 ## Usage (Surge)
 
 ```ini
-RULE-SET,https://raw.githubusercontent.com/aydengen/rules/main/Surge/Gemini/Gemini.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/aydengen/rules/refs/heads/main/Surge/Gemini/Gemini.list,PROXY
 ```
